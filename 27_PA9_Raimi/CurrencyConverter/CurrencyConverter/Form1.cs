@@ -48,7 +48,11 @@ namespace CurrencyConverter
                     convertedAmount = 81.97f * amount;
                 }
 
-                else if(rb_Yen.Checked == false || rb_US.Checked == false)
+                else if (rb_Ringgit.Checked)
+                {
+                    convertedAmount = 3.01f * amount;
+                }
+                else if(rb_Yen.Checked == false || rb_US.Checked == false || rb_Ringgit.Checked == false)
                 {
                     MessageBox.Show("Please check a radio button.");
                 }
@@ -82,6 +86,12 @@ namespace CurrencyConverter
             txt_Converted.Text = "";
             rb_Yen.Checked = false;
             rb_US.Checked = false;
+            rb_Ringgit.Checked = false;
+        }
+
+        private void rb_Ringgit_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
