@@ -8,3 +8,13 @@ C:\Users\raimi\OneDrive\Desktop\27_PA9_Raimi\CurrencyConverter\CurrencyConverter
 C:\Users\raimi\OneDrive\Desktop\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\27_Raimi_PA9.csproj.CoreCompileInputs.cache
 C:\Users\raimi\OneDrive\Desktop\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
 C:\Users\raimi\OneDrive\Desktop\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\27_Raimi_PA9.csprojAssemblyReference.cache
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\27_Raimi_PA9.csproj.GenerateResource.cache
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\27_Raimi_PA9.csproj.CoreCompileInputs.cache
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Muhd Izzan\Desktop\27_PA9_Raimi\27_PA9_Raimi\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
